@@ -1,4 +1,4 @@
 FROM almalinux
-LABEL Author="suresh"
-      course="sanju"
+LABEL Author="suresh"\
+      course="sanju"\
       duration="10hrs"
